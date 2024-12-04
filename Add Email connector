@@ -1,0 +1,22 @@
+<h2>Welcome, [Employee FirstName]!</h2>
+<p>We are excited to have you join the [Company Name] team as a [Job Title]. Below are the important details to get you started:</p>
+
+<h3>Account Details:</h3>
+<p>Username: <strong>[User Principal Name]</strong></p>
+<p>Temporary Password: <strong>[Temporary Password]</strong></p>
+<p>Login URL: <a href="https://portal.azure.com">Azure Portal</a></p>
+
+<h3>Resources Assigned:</h3>
+<p>You have been assigned to the following resources:</p>
+<ul>
+  <li><strong>VM</strong>: Your virtual machine (VM) [VM Name] has been created. You can access it through [VM Access Details].</li>
+  <li><strong>Group Membership</strong>: You are a part of the following groups: [Group Names].</li>
+</ul>
+
+<h3>Next Steps:</h3>
+<p>1. Log in to the Azure Portal to verify your account.</p>
+<p>2. Access your assigned resources.</p>
+<p>If you have any questions or need assistance, please reach out to IT Support at [IT Support Email].</p>
+
+<p>Best regards,<br/>
+The [Company Name] IT Team</p>
